@@ -1,0 +1,16 @@
+/*
+!wp-content
+!.gitignore
+wp-content/*
+
+!wp-content/plugins
+wp-content/plugins/*
+!wp-content/plugins/astra-sites
+!wp-content/plugins/custom-css-js
+!wp-content/plugins/elementor
+!wp-content/plugins/pro-elements
+!wp-content/plugins/ultimate-addons-for-gutenberg
+
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/astra
